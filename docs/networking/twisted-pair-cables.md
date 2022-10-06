@@ -20,27 +20,30 @@ A cable that is classified as S/FTP or Shielded Foil Twisted Pair is a combinati
 ## Wiring
 
 ### TIA/EIA 568A Wiring
+### <span style={{color:"red"}}>IMPORTANT</span>
+### IMPORTANT (there were some errors black is white)
+### <span style={{color:"red"}}>IMPORTANT</span>
 PIN | COLOR | COLOR-TEXT
 ---|---|---
-1 | <span style="color:green">█</span>█<span style="color:green">█</span>█<span style="color:green">█</span>█ | White and Green
-2 | <span style="color:green">██████</span> | Green
-3 | <span style="color:orange">█</span>█<span style="color:orange">█</span>█<span style="color:orange">█</span>█ | White and Orange
-4 | <span style="color:blue">██████</span> | Blue
-5 | <span style="color:blue">█</span>█<span style="color:blue">█</span>█<span style="color:blue">█</span>█ | White and Blue
-6 | <span style="color:orange">██████</span> | Orange
-7 | <span style="color:brown">█</span>█<span style="color:brown">█</span>█<span style="color:brown">█</span>█ | White and Brown
-8 | <span style="color:brown">██████</span> | Brown
+1 | <span style={{color:"green"}}>█</span>█<span style={{color:"green"}}>█</span>█<span style={{color:"green"}}>█</span>█ | White and Green
+2 | <span style={{color:"green"}}>██████</span> | Green
+3 | <span style={{color:"orange"}}>█</span>█<span style={{color:"orange"}}>█</span>█<span style={{color:"orange"}}>█</span>█ | White and Orange
+4 | <span style={{color:"blue"}}>██████</span> | Blue
+5 | <span style={{color:"blue"}}>█</span>█<span style={{color:"blue"}}>█</span>█<span style={{color:"blue"}}>█</span>█ | White and Blue
+6 | <span style={{color:"orange"}}>██████</span> | Orange
+7 | <span style={{color:"brown"}}>█</span>█<span style={{color:"brown"}}>█</span>█<span style={{color:"brown"}}>█</span>█ | White and Brown
+8 | <span style={{color:"brown"}}>██████</span> | Brown
 ### TIA/EIA 568B Wiring
 PIN | COLOR | COLOR-TEXT
 ---|---|---
-1 | <span style="color:orange">█</span>█<span style="color:orange">█</span>█<span style="color:orange">█</span>█ | White and Orange
-2 | <span style="color:orange">██████</span> | Orange
-3 | <span style="color:green">█</span>█<span style="color:green">█</span>█<span style="color:green">█</span>█ | White and Green
-4 | <span style="color:blue">██████</span> | Blue
-5 | <span style="color:blue">█</span>█<span style="color:blue">█</span>█<span style="color:blue">█</span>█ | White and Blue
-6 | <span style="color:green">██████</span> | Green
-7 | <span style="color:brown">█</span>█<span style="color:brown">█</span>█<span style="color:brown">█</span>█ | White and Brown
-8 | <span style="color:brown">██████</span> | Brown
+1 | <span style={{color:"orange"}}>█</span>█<span style={{color:"orange"}}>█</span>█<span style={{color:"orange"}}>█</span>█ | White and Orange
+2 | <span style={{color:"orange"}}>██████</span> | Orange
+3 | <span style={{color:"green"}}>█</span>█<span style={{color:"green"}}>█</span>█<span style={{color:"green"}}>█</span>█ | White and Green
+4 | <span style={{color:"blue"}}>██████</span> | Blue
+5 | <span style={{color:"blue"}}>█</span>█<span style={{color:"blue"}}>█</span>█<span style={{color:"blue"}}>█</span>█ | White and Blue
+6 | <span style={{color:"green"}}>██████</span> | Green
+7 | <span style={{color:"brown"}}>█</span>█<span style={{color:"brown"}}>█</span>█<span style={{color:"brown"}}>█</span>█ | White and Brown
+8 | <span style={{color:"brown"}}>██████</span> | Brown
 
 ## Categories
 
